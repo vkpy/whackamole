@@ -1,0 +1,16 @@
+{
+  "name": "whackAMole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d game"
+  },
+  "keywords": [],
+  "homepage": "https://vkpy.github.io/whackamole",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
